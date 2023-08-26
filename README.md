@@ -10,7 +10,7 @@ Otávio von Ameln Lovison
 Data de Submissão: 26 de agosto de 2023
 
 ## Instituição
-Universidade Federal do Rio Grande do Sul
+Universidade Federal do Rio Grande do Sul <br>
 Instituto de informática/PPGC
 
 ## Versão
