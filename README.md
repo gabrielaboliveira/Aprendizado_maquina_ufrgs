@@ -1,8 +1,8 @@
 Trabalho realizado para disciplina de Aprendizado de Máquina <br>
 
 ## Autores
-Alceu Lima Junior - 182705 <br>
-Gabriela Bellardinelli Oliveira  - 230135 <br>
+Alceu Lima Junior <br>
+Gabriela Bellardinelli Oliveira <br>
 Otávio von Ameln Lovison
 
 
